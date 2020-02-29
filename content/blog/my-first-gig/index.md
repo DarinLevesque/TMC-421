@@ -1,9 +1,9 @@
 ---
-title: Hello World
-date: '2015-05-01T22:12:03.284Z'
+title: My First Gig
+date: '2020-02-10T22:12:03.284Z'
 ---
 
-This is my first post on my new fake blog! How exciting!
+Often people under appreciate the power of your first gig in the muis==lThis is my first post on my new fake blog! How exciting!
 
 I'm sure I'll write a lot more interesting things in the future.
 

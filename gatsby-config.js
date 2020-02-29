@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby MDX Starter`,
-    author: `Doak Heggeness`,
-    description: `An extension of the gatsby starter blog, adding a home page with support for MDX`,
+    title: `Ignatius`,
+    author: `Ignatius Whitten`,
+    description: `A project for TMC-421, Principles of Web Authoring`,
     siteUrl: `https://gatsby-starter-mdx-website-blog.netlify.com/`,
     social: {
-      twitter: `doakheggeness`,
+      twitter: `ignatiusw`,
     },
   },
   plugins: [
@@ -134,13 +134,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Mdx Website & Blog`,
-        short_name: `Gatsby MDX`,
+        name: `Ignatius Whitten`,
+        short_name: `Ignatius`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/trumpetIcon.png`,
       },
     },
     `gatsby-plugin-offline`,

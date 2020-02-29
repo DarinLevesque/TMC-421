@@ -2,13 +2,15 @@ import { Link } from 'gatsby'
 import PropTypes from 'prop-types'
 import React from 'react'
 import styled from '@emotion/styled'
-
+import "typeface-raleway"
+import DarkModeToggle from '../components/darkMode'
 
 const Header = styled('header')`
   background: rebeccapurple;
   width: 100%;
   padding: 1.5rem 1.0875rem;
   margin-bottom: 2rem;
+  font-family: "raleway";
 `
 
 const Nav = styled('nav')`
@@ -24,7 +26,7 @@ const Nav = styled('nav')`
   li {
     display: inline-block;
     margin-left: 1em;
-    &:first-child {
+    &:first-of-type {
       position: relative;
       margin: 0;
       flex-basis: 100%;
@@ -55,7 +57,12 @@ const Header1 = () => {
         <ul>
           <li>
             <Link to="/" activeStyle={activeLinkStyle}>
-            Gatsby MDX Starter
+            Ignatius
+            </Link>
+          </li>
+          <li>
+            <Link to="/background/" activeStyle={activeLinkStyle}>
+              Background
             </Link>
           </li>
           <li>
@@ -68,6 +75,12 @@ const Header1 = () => {
               About
             </Link>
           </li>
+          <li>
+            <Link to="/contact/" activeStyle={activeLinkStyle}>
+              Contact
+            </Link>
+          </li>
+          <li><DarkModeToggle /></li>
         </ul>
       </Nav>
     </Header>

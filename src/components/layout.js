@@ -8,6 +8,7 @@
 import React from "react"
 import PropTypes from "prop-types"
 import Helmet from 'react-helmet'
+import "typeface-raleway"
 
 import Header from "./header"
 import "../styles/global.css"
