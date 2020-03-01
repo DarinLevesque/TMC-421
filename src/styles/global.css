@@ -126,6 +126,28 @@ section,
 summary {
   display: block;
 }
+
+nav ul li.switch-theme svg {
+  width: 24px;
+  height: 24px;
+}
+nav ul li.switch-theme .switch-button {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: hidden;
+}
+nav ul li.switch-theme .switch-button div {
+  position: absolute;
+  transform: scale(0, 0);
+  transition: transform .35s;
+  cursor: pointer;
+}
+nav ul li.switch-theme .switch-button div.active {
+  transform: scale(1, 1);
+}
+
+
 audio,
 canvas,
 progress,

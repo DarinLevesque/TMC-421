@@ -7,6 +7,8 @@ module.exports = {
     social: {
       twitter: `ignatiusw`,
     },
+    darkmode: true,
+    switchTheme: true,
   },
   plugins: [
     {
@@ -63,7 +65,6 @@ module.exports = {
       },
     },
     `gatsby-plugin-emotion`,
-    'gatsby-plugin-use-dark-mode',
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     `gatsby-plugin-sitemap`,
