@@ -6,7 +6,7 @@ import "typeface-raleway"
 import DarkModeToggle from '../components/darkMode'
 
 const Header = styled('header')`
-  background: rebeccapurple;
+  background:   #1a588b;
   width: 100%;
   padding: 1.5rem 1.0875rem;
   margin-bottom: 2rem;
@@ -80,7 +80,7 @@ const Header1 = () => {
               Contact
             </Link>
           </li>
-          <li><DarkModeToggle /></li>
+          <DarkModeToggle />
         </ul>
       </Nav>
     </Header>
