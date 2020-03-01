@@ -22,10 +22,6 @@
     "gatsby-plugin-react-helmet": "3.1.5",
     "gatsby-plugin-sharp": "2.2.18",
     "gatsby-plugin-sitemap": "2.2.19",
-<<<<<<< HEAD
-=======
-    "gatsby-plugin-use-dark-mode": "1.1.2",
->>>>>>> 7ea8ca20c57828905bc4cd6d1bc4436e0a714675
     "gatsby-remark-copy-linked-files": "2.1.13",
     "gatsby-remark-images": "3.1.19",
     "gatsby-remark-prismjs": "3.3.20",
