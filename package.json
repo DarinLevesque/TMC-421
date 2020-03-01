@@ -41,8 +41,8 @@
     "use-dark-mode": "2.3.1"
   },
   "devDependencies": {
-    "eslint": "6.2.2",
-    "eslint-plugin-react": "7.18.3",
+    "eslint": "6.8.0",
+    "eslint-plugin-react": "7.14.3",
     "prettier": "1.18.2"
   },
   "homepage": "https://gatsby-starter-mdx-website-blog.netlify.com/",
