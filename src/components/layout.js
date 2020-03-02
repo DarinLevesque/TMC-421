@@ -11,6 +11,7 @@ import Helmet from 'react-helmet'
 import { MDXProvider } from '@mdx-js/react'
 import Image from '../components/image'
 import SEO from '../components/seo'
+import { Link } from 'gatsby'
 import 'typeface-raleway'
 
 import Header from './header'
@@ -35,6 +36,7 @@ const Layout = ({ children, title }) => [
         © {new Date().getFullYear()}, Built with
         {` `}
         <a href="https://www.gatsbyjs.org">Gatsby</a>
+        <Link to="/sitedetails/">References</Link>
       </footer>
     </div>{' '}
     {/* end of .siteContainer */}
