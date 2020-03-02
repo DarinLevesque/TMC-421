@@ -3,19 +3,12 @@ title: My First Gig
 date: '2020-02-10T22:12:03.284Z'
 ---
 
-Often people under appreciate the power of your first gig in the muis==lThis is my first post on my new fake blog! How exciting!
+Often people under-appreciate the profound effect that your first gig has on your future potential in the music biz. I was fortunate enough to have a great first experience for my first professional gig. For many though, a poor experience at your first gig could be so highly discouraging that you may never choose to even try again professionally.
 
-I'm sure I'll write a lot more interesting things in the future.
+I hooked up with the local orchestral masters of New York and they showed me the ropes before I had my first real gig performing for a broadway musical. Those amazing people took me under their wing and, unaware to me, made my first gig memorable and ever since then I've wanted to perform and share my music with as many people as possible.
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](http://en.wikipedia.org/wiki/Salted_duck_egg).
+My suggestion is that you craft your first gig experience as best you can to ensure that you don't get thrown into an uncomfortable situation that may ruin your first gig and ultimately derail your music career.
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
+> Craft your first gig experience as much as you can to heighten your music adventure!
 
-![Chinese Salty Egg](./salty_egg.jpg)
+![Metal trumpet man](./trumpet.png)
