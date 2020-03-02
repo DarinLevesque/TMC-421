@@ -198,7 +198,7 @@ const activeLinkStyle = {
 const ContactForm1 = () => {
   return (
     <ContactForm>
-      <form id="form" className="topBefore" netlify>
+      <form id="form" name="contactPageForm" className="topBefore" netlify>
         <input id="name" type="text" placeholder="NAME" />
         <input id="email" type="text" placeholder="E-MAIL" />
         <textarea id="message" type="text" placeholder="MESSAGE"></textarea>
