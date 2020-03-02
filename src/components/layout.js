@@ -8,10 +8,15 @@
 import React from "react"
 import PropTypes from "prop-types"
 import Helmet from 'react-helmet'
+import { MDXProvider } from "@mdx-js/react"
+import Image from '../components/image'
+import SEO from '../components/seo'
 import "typeface-raleway"
 
 import Header from "./header"
 import "../styles/global.css"
+
+const shortcodes = { SEO, Image }
 
 const Layout = ({ children, title }) => [
 
@@ -22,7 +27,7 @@ const Layout = ({ children, title }) => [
       </Helmet>
       <div className='siteContent'>
       <Header />
-        <main className="main">{children}</main>
+        <main className="main"><MDXProvider components={shortcodes}>{children}</MDXProvider></main>
         </div> {/* end of .siteContent */}
         <footer>
           © {new Date().getFullYear()}, Built with
